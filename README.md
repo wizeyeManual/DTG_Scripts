@@ -2,7 +2,7 @@
 This repository holds the default DTG scripts in WIZEYE Site
 
 
-How to upload default dtg scripts into WIZEYE site 
+To upload the default dtg scripts into WIZEYE site, go to 
 
 Contents > Map Template > DTG Script > Import DTG Area list
 
